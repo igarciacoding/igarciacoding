@@ -1,40 +1,55 @@
-- ```md
 # Hi there, I'm Irvin Garcia 👋
 
 ![Banner](https://your-image-url.com/banner.png)
 
 ## 🚀 About Me
-I'm a passionate **[Your Role, e.g., Full-Stack Developer]** with a love for **[Your Interests, e.g., Open-Source, AI, Web Development]**. I enjoy building projects that solve real-world problems and constantly learning new technologies.
+I'm a **IT Analyst & Tech Support Specialist** with experience in **Identity & Access Management, Cloud Computing, and IT Support**. Passionate about **Cybersecurity, Automation, and Open-Source Contributions**, I enjoy working on innovative projects and solving challenging problems.
+
+## 📄 Resume
+📜 **[View My Resume](https://your-resume-link.com)**  
+💼 **[LinkedIn Profile](https://linkedin.com/in/garciairvin)**  
+📧 **Contact Me:** irvinegarcia@protonmail.com
+📱 **Phone:** (479) 389-0822
 
 ## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=google&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat&logo=okta&logoColor=white)
 
-## 🔥 Projects
-- 🌟 [Project Name](https://github.com/yourproject) - A short description.
-- 💡 [Another Cool Project](https://github.com/yourproject) - What it does.
-- 🚀 [Pinned Repo](https://github.com/yourproject) - Why it's awesome.
+## 🔥 Work Experience
+### Customer Support Representative | ClearHello - Escondido, CA (Feb 2024 - Feb 2025)
+- Guided customers in purchasing phone numbers, managing number porting, and handling account-related services.
+- Reduced customer escalation issues by 20% through clear communication to resolve Tier 1 and 2 technical issues.
+- Resolved 35 to 40 customer tickets daily using analytical and troubleshooting skills.
+
+### IT Analyst | TATA Consultancy Services - Culver City, CA (Nov 2017 - Feb 2024)
+- Delivered IT support to over 1,000 users at Sony Pictures Entertainment.
+- Reduced ticket resolution time by 25% through efficient troubleshooting.
+- Created bilingual end-user documentation, reducing support calls by 30%.
+- Managed user access and cybersecurity compliance processes.
+
+### IT Field Technician | Bible College - Anaheim, CA (Jan 2016 - Nov 2017)
+- Provided technical support across multiple buildings, increasing satisfaction by 70%.
+- Developed an automated spreadsheet system using Google Apps Script, improving efficiency by 80%.
+- Set up and maintained AV equipment for classrooms, conferences, and livestreams.
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/garciairvin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox)](https://yourportfolio.com)
 
 ## 🏆 Fun Stats & Streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
-```
-
 
 
 <!---
