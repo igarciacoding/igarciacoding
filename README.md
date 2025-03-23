@@ -1,5 +1,5 @@
 - ```md
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Irvin Garcia 👋
 
 ![Banner](https://your-image-url.com/banner.png)
 
