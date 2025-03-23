@@ -1,4 +1,4 @@
-# Hi there, I'm Irvin Garcia 👋
+# Hi there, I'm Irvin 👋
 
 ![Banner](https://github.com/igarciacoding/igarciacoding/blob/main/github-header-image.png)
 
