@@ -6,10 +6,8 @@
 I'm a **IT Analyst & Tech Support Specialist** with experience in **Identity & Access Management, Cloud Computing, and IT Support**. Passionate about **Cybersecurity, Automation, and Open-Source Contributions**, I enjoy working on innovative projects and solving challenging problems.
 
 ## 📄 Resume
-📜 **[View My Resume](https://your-resume-link.com)**  
 💼 **[LinkedIn Profile](https://linkedin.com/in/garciairvin)**  
 📧 **Contact Me:** irvinegarcia@protonmail.com
-📱 **Phone:** (479) 389-0822
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -44,7 +42,6 @@ I'm a **IT Analyst & Tech Support Specialist** with experience in **Identity & A
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/garciairvin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox)](https://yourportfolio.com)
 
 ## 🏆 Fun Stats & Streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
