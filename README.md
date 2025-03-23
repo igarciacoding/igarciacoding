@@ -1,6 +1,6 @@
 # Hi there, I'm Irvin Garcia 👋
 
-![Banner](https://your-image-url.com/banner.png)
+![Banner](https://github.com/igarciacoding/igarciacoding/blob/main/github-header-image.png)
 
 ## 🚀 About Me
 I'm a **IT Analyst & Tech Support Specialist** with experience in **Identity & Access Management, Cloud Computing, and IT Support**. Passionate about **Cybersecurity, Automation, and Open-Source Contributions**, I enjoy working on innovative projects and solving challenging problems.
