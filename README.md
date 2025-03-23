@@ -19,6 +19,13 @@ I'm a **IT Analyst & Tech Support Specialist** with experience in **Identity & A
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat&logo=okta&logoColor=white)
 
+## 🔥 Featured Projects
+- 🌟 [Email_form_support](https://github.com/igarciacoding/Email_form_support) - PHP project.
+- 💡 [Tic_tac_toe](https://github.com/igarciacoding/Tic_tac_toe) - JavaScript-based game.
+- 🚀 [College_project](https://github.com/igarciacoding/College_project) - Job Seeker Website in PHP.
+- 🔥 [College_project_updated](https://github.com/igarciacoding/College_project_updated) - Updated version of the College project.
+- 🏆 [igarciacoding](https://github.com/igarciacoding/igarciacoding) - GitHub profile configuration files.
+
 ## 🔥 Work Experience
 ### Customer Support Representative | ClearHello - Escondido, CA (Feb 2024 - Feb 2025)
 - Guided customers in purchasing phone numbers, managing number porting, and handling account-related services.
